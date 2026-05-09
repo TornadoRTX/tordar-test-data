@@ -398,7 +398,8 @@
     "product" : {
         "show_smoothed_range_folding" : "",
         "sti_forecast_enabled" : "",
-        "sti_past_enabled" : ""
+        "sti_past_enabled" : "",
+        "thresholds" : ""
     },
     "text" : {
         "fonts" : {
@@ -427,6 +428,7 @@
         "level2_products_expanded" : "",
         "level2_settings_expanded" : "",
         "level3_products_expanded" : "",
+        "level3_settings_expanded" : "",
         "map_settings_expanded" : "",
         "timeline_expanded" : "",
         "main_ui_state" : true,

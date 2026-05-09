@@ -402,7 +402,17 @@
     "product" : {
         "show_smoothed_range_folding" : false,
         "sti_forecast_enabled" : true,
-        "sti_past_enabled" : true
+        "sti_past_enabled" : true,
+        "thresholds" : {
+            "L2:REF" : {
+                "enabled" : true,
+                "value" : 80
+            },
+            "L3:SDR" : {
+                "enabled" : true,
+                "value" : 45
+            }
+        }
     },
     "text" : {
         "fonts" : {
@@ -431,6 +441,7 @@
         "level2_products_expanded" : false,
         "level2_settings_expanded" : true,
         "level3_products_expanded" : true,
+        "level3_settings_expanded" : true,
         "map_settings_expanded" : true,
         "timeline_expanded" : true,
         "main_ui_state" : "",
