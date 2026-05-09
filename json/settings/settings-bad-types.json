@@ -39,7 +39,9 @@
         "cursor_icon_always_on" : "",
         "radar_site_threshold" : "",
         "high_privilege_warning_enabled" : 0,
-        "cursor_icon_scale" : false
+        "cursor_icon_scale" : false,
+        "legacy_lightning_enabled" : 0,
+        "goes_glm_lightning_enabled" : 0
     },
     "audio" : {
         "alert_sound_file" : 1,
