@@ -1,2 +1,6 @@
 {
+    "general" : {
+        "legacy_lightning_enabled" : false,
+        "goes_glm_lightning_enabled" : false
+    }
 }
